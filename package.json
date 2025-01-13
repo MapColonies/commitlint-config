@@ -1,6 +1,6 @@
 {
   "name": "@map-colonies/commitlint-config",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Commitlint configuration for MapColonies projects",
   "main": "./index.js",
   "exports": {
