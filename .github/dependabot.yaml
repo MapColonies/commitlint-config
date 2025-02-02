@@ -33,7 +33,9 @@ updates:
     labels:
       - 'infra'
     commit-message:
-      prefix: 'deps'
+      prefix: 'devdeps'
+    ignore:
+      - dependency-name: '@types/node'
     groups:
       map-colonies:
         patterns:
@@ -47,6 +49,7 @@ updates:
       dev-patch:
         update-types:
           - patch
+          - minor
 
   # github deps
   - package-ecosystem: github-actions
