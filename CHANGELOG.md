@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/MapColonies/commitlint-config/compare/v1.1.0...v1.1.1) (2025-02-03)
+
+
+### Dependency Updates
+
+* bump @commitlint/config-conventional from 19.6.0 to 19.7.1 ([#11](https://github.com/MapColonies/commitlint-config/issues/11)) ([94736a8](https://github.com/MapColonies/commitlint-config/commit/94736a89cf6936a612e26dad0d803a9fa3736316))
+
 ## [1.1.0](https://github.com/MapColonies/commitlint-config/compare/v1.0.0...v1.1.0) (2025-01-27)
 
 
